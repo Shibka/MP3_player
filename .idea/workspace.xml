@@ -60,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707570533630</updated>
       <workItem from="1707570535042" duration="5819000" />
-      <workItem from="1707647910486" duration="4200000" />
+      <workItem from="1707647910486" duration="6979000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1707571200312</created>
@@ -74,6 +74,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
